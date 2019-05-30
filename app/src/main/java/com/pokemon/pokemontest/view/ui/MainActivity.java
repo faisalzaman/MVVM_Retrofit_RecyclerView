@@ -94,6 +94,7 @@ public class MainActivity extends BaseActivity<MainViewModel> implements MainCal
             super.onBackPressed();
     }
 
+    //onclick goto detail
     public void gotoDetail(int pos){
 
         Constants.FLAG="detail";
