@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00CEE8</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+        <!--======================================-->
+
+        <!--base colors -->
+        <color name="colorBackgroundScreen">#181a33</color>
+        <color name="colorViews">#ff0000</color>
+        <color name="colorTextFields">#bbbece</color>
+
+        <!--=====================================-->
+
+        <color name="colorBlack">#000000</color>
+        <color name="colorDarkGrey">#808080</color>
+        <color name="colorlightGrey">#A9A9A9</color>
+        <color name="colormidGrey">#D3D3D3</color>
+        <color name="colormidGreyAlpha">#40D3D3D3</color>
+        <color name="colorLightGreen">#2F4F4F</color>
+        <color name="colorSlateGrey">#708090</color>
+        <color name="colorTierGraphText">#bebebe</color>
+        <color name="colorDarkSlateBlue">#483D8B</color>
+        <color name="colorSkyBlue">#87CEEB</color>
+        <color name="colorDodgerBlue">#1E90FF</color>
+
+        <color name="colorMidnightlue">#191970</color>
+        <color name="colorRed">#c62828</color>
+        <color name="colorLimeGreen">#00FF00</color>
+        <color name="colormediumseagreen">#3CB371</color>
+        <color name="colormediumspringgreen">#00FA9A</color>
+        <color name="colorLightseagreen">#20B2AA</color>
+        <color name="colorGreenViews">#0b958b</color>
+        <color name="colorWhite">#FFFFFF</color>
+        <color name="colorLightWhite">#f2f2f2</color>
+        <color name="colorTransparent">#0000FFFF</color>  <!--add 4 zeros before any 6 digit number will make it transparent color-->
+
+        <color name="colorStartBlue">#00A69D</color>
+        <color name="colorBlueBlock">#2e3192</color>
+        <color name="colorGreenBlock">#009245</color>
+        <color name="colorOrangeBlock">#ff5724</color>
+        <color name="colorLightOrange">#ffA724</color>
+        <color name="colorRedBlock">#ed1c24</color>
+        <color name="colorYellow">#FFFF00</color>
+
+
+
+
+    </resources>
+
+
